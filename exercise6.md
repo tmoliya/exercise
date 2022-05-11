@@ -1,1 +1,0 @@
-This is a new file for doing exercise 6.
